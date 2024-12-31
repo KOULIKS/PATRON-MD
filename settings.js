@@ -1,9 +1,9 @@
-global.bankname = "MONIEPOINT"
+global.bankname = "KAO"
 
-global.banknumber = "8133729715"
+global.banknumber = "918293316342"
 
-global.bankowner = "FADARE"
-
+global.bankowner = "KAO"
+global.Mode = 'private'
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
 global.wlcm = true

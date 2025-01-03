@@ -42,8 +42,8 @@ const { uncache, nocache } = require('./lib/loader')
 const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/exif')
 const { smsg, isUrl, generateMessageTag, getBuffer, getSizeMedia, fetchJson, await, sleep, reSize } = require('./lib/myfunc')
 
-const prefix = ''
-let phoneNumber = "916909137213"
+const prefix = '.'
+let phoneNumber = "918293316342"
 global.db = JSON.parse(fs.readFileSync('./database/database.json'))
 if (global.db) global.db = {
 sticker: {},
